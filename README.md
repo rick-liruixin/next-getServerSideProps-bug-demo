@@ -34,3 +34,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## 测试一个文件推送两个仓库
+GitHub 到 新的 GitLub 代码迁移方案
+目的：
+将现有的 GitHub 仓库迁移到 新的GitLub ，并保持两个仓库同步。
+确保代码推送到 新的 GitLub 不会遗漏，并且实现代码的自动同步。
